@@ -8,7 +8,7 @@
 }
 
 .titulo-principal{
-  padding-left: 20px;
+  padding-left: 20px; 
 }
 
 .texto-centralizado{
@@ -19,8 +19,17 @@ p{
   text-align: center;
 }
 
+em strong{
+  color: red;
+}
+
 #missao{
   font-size: 28px;
+}
+
+.beneficios{
+  padding: 20px;
+  background-color: #FFFFFF;
 }
 
 ul{
@@ -30,6 +39,10 @@ ul{
   margin-right: 15%;
 }
 
+.item{
+  font-style: italic;
+}
+
 .imagem-beneficios{
-  width: 50%;
+  width: 50%; 
 }
